@@ -1,0 +1,8 @@
+# Package definition for ruff
+
+package_name: ruff
+github_repo: astral-sh/ruff
+artifact_format: tar.gz
+description: "An extremely fast Python linter and code formatter, written in Rust."
+
+# Build for all Debian suites and all supported architectures.
